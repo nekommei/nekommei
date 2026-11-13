@@ -2,12 +2,18 @@
 <div align="center">
 
 # Marilyn Sim Mei Lim
-### `software engineering student`
+
+**Software Engineering Student**
+
+<sub>Aspiring Mobile Application Developer</sub>
 
 *Building ideas into applications, one commit at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-nekommei-181717?style=flat-square&logo=github)](https://github.com/nekommei)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Summer%202027%20Internships-6B9B78?style=flat-square)](mailto:simmeilim04@gmail.com)
+<br>
+
+[GitHub](https://github.com/nekommei) · [Email](mailto:simmeilim04@gmail.com)
+
+<sub>🟢 Open to Summer 2027 Internship Opportunities</sub>
 
 </div>
 
