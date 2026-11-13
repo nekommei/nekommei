@@ -7,7 +7,7 @@
 *Building ideas into applications, one commit at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-nekommei-181717?style=flat-square&logo=github)](https://github.com/nekommei)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-6B9B78?style=flat-square)](mailto:simmeilim04@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Summer%202027%20Internships-6B9B78?style=flat-square)](mailto:simmeilim04@gmail.com)
 
 </div>
 
@@ -22,10 +22,10 @@ I'm passionate about technology and enjoy exploring how software can solve real-
 Currently, I'm particularly interested in **Mobile Application Development**, while continuing to explore new technologies and improve my software engineering skills.
 
 - 🎓 Bachelor of Computing (Software Engineering)
-- 📱 Interested in mobile application development
-- 💻 Experienced with Flutter, Firebase and web technologies
+- 📱 Aspiring mobile application developer
+- 💻 Exploring Flutter, Firebase and other technologies
 - 🌱 Always learning and experimenting with new ideas
-- 🤝 Open to internship opportunities and collaborations
+- 🤝 Open to Summer 2027 internship opportunities (Australian summer)
 
 ---
 
