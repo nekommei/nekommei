@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Marilyn Sim Mei Lim
+# Marilyn Emah Sim Mei Lim
 
 **Software Engineering Student**
 
@@ -13,7 +13,7 @@
 
 [GitHub](https://github.com/nekommei) · [Email](mailto:simmeilim04@gmail.com)
 
-<sub>🟢 Open to Summer 2027 Internship Opportunities</sub>
+<sub>🟢 Open to Internship Opportunities | Nov 2027 – Feb 2028 (Australian Summer)</sub>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## `$ whoami`
 
-Hello! I'm **Marilyn**, a Software Engineering student at **Curtin University Malaysia**, with a Diploma in Computer Science.
+Hello! I'm **Marilyn**, a Software Engineering student at **Curtin University Malaysia**, with a Diploma in Computer Science from Professional College MARA Beranang.
 
 I'm passionate about technology and enjoy exploring how software can solve real-world problems. My experience includes web development, application development, IoT projects and data visualisation.
 
