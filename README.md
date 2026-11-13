@@ -13,7 +13,7 @@
 
 [GitHub](https://github.com/nekommei) · [Email](mailto:simmeilim04@gmail.com)
 
-<sub>🟢 Open to Internship Opportunities | Nov 2027 – Feb 2028 (Australian Summer)</sub>
+<sub>🟢 Open to Internship Opportunities · Nov 2027 – Feb 2028 (Australia)</sub>
 
 </div>
 
@@ -31,7 +31,7 @@ Currently, I'm particularly interested in **Mobile Application Development**, wh
 - 📱 Aspiring mobile application developer
 - 💻 Exploring Flutter, Firebase and other technologies
 - 🌱 Always learning and experimenting with new ideas
-- 🤝 Open to Summer 2027 internship opportunities (Australian summer)
+- 🤝 Open to internship opportunities from November 2027 to February 2028.
 
 ---
 
@@ -61,7 +61,7 @@ Worked on LA CRM, a web-based ERP system.
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Frameworks & Development**
 
@@ -79,18 +79,62 @@ Worked on LA CRM, a web-based ERP system.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+**Mobile Development**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ---
 
 ## `$ featured-projects`
 
-| Project | Description | Technologies |
-|---|---|---|
-| **FGPot – Smart Plant Pot** | Automated watering and real-time soil moisture monitoring. | Arduino, C++, MIT App Inventor |
-| **Smart Chicken Coop** | Flood detection and automated door control with mobile monitoring. | Arduino, C++, MIT App Inventor |
-| **Anime & Comic Website** | Website displaying anime information using APIs. | HTML, CSS, JavaScript, ElectronJS |
-| **E-Commerce Website** | Online shopping platform with product selection and database integration. | Django, Python, SQLite |
-| **Personal Finance App** | Mobile application for expense tracking and financial planning. | MIT App Inventor, APIs |
-| **Mental Health in Asia** | Data analysis and visualisation exploring job roles and mental health. | R, RStudio |
+### 01. CurtinEAT
+**Android Food Ordering Application**
+
+A mobile application designed for Curtin students and campus vendors, featuring authentication, product browsing, shopping cart, checkout and order management.
+
+`Kotlin` `Jetpack Compose` `Firebase` `Room` `MVVM`
+
+### 02. FGPot – Smart Plant Pot
+**IoT & Mobile Application**
+
+An automated watering system that monitors soil moisture and controls watering, with mobile application integration.
+
+`Arduino` `C++` `MIT App Inventor`
+
+### 03. Smart Chicken Coop
+**IoT & Automation**
+
+An automated chicken coop featuring flood detection, automated door control and mobile monitoring.
+
+`Arduino` `C++` `MIT App Inventor`
+
+### 04. Anime & Comic Website
+**Web Development**
+
+A website displaying anime information, characters and episodes using APIs.
+
+`HTML` `CSS` `JavaScript` `ElectronJS`
+
+### 05. E-Commerce Website
+**Full-Stack Web Development**
+
+An online shopping platform with product selection and database integration.
+
+`Django` `Python` `SQLite`
+
+### 06. Personal Finance App
+**Mobile Application**
+
+A personal finance application for expense tracking and financial planning.
+
+`MIT App Inventor` `APIs`
+
+### 07. Mental Health in Asia
+**Data Analysis & Visualisation**
+
+An analysis exploring the relationship between job roles and mental health in Asia.
+
+`R` `RStudio`
 
 ---
 
